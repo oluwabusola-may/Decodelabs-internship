@@ -135,6 +135,4 @@ A single-page Power BI dashboard that tells a clear, decision-ready story from t
 ---
 
 ## Connect
-
-- **LinkedIn:** [linkedin.com/in/oluwabusola](#) *(replace with your actual URL)*
-- **GitHub:** You're already here!
+www.linkedin.com/in/oluwabusola-oyenuga
